@@ -25,6 +25,10 @@ O projeto nasceu para me apoiar pessoalmente na análise dos temas mais frequent
 1. Quais temas são mais abordados nas pesquisas acadêmicas do CPGEI;
 2. Quais temas estão menos explorados, revelando lacunas e demandas para futuras pesquisas.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10504a3c-d13b-48e1-b8f7-fd9becf2edc7" alt="Captura de tela 2025-07-05 014745" />
+</p>
+
 O foco inicial é me ajudar na preparação para tentar entrar no mestrado CPGEI — assim eu posso mapear as áreas com maior ou menor volume de produção científica, para direcionar melhor meus estudos e escolhas.
 
 No futuro, quero expandir o sistema para que ele permita escolher outros programas de mestrado, abrindo espaço para uma análise mais ampla e útil para outros pesquisadores.
